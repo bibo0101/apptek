@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/apptek/static/css/main.f4a78a33.css",
+    "main.js": "/apptek/static/js/main.1cd2c68a.js",
+    "static/js/787.42f3db74.chunk.js": "/apptek/static/js/787.42f3db74.chunk.js",
+    "static/media/appti.png": "/apptek/static/media/appti.03542fbdbb4a7bcf8cdd.png",
+    "static/media/jobopening.jpg": "/apptek/static/media/jobopening.0b7649d60562b78196c5.jpg",
+    "static/media/hiring.jpg": "/apptek/static/media/hiring.f203b91a5e7b9d8b6544.jpg",
+    "static/media/softskill.png": "/apptek/static/media/softskill.d1ba9600d28fe66409b9.png",
+    "static/media/Picture2.png": "/apptek/static/media/Picture2.c1ff786ef881a2d3ad93.png",
+    "static/media/bg1.png": "/apptek/static/media/bg1.b642e8bbbd79cf43c7f7.png",
+    "static/media/sql.png": "/apptek/static/media/sql.3c4e8d489e1d5b7a66c4.png",
+    "static/media/interview.jpg": "/apptek/static/media/interview.9ba89a9a8cd4fe0459e9.jpg",
+    "static/media/bg31.png": "/apptek/static/media/bg31.aa88c57241fd8cc16f17.png",
+    "static/media/placement.jpg": "/apptek/static/media/placement.b86e41d429af8454bdd8.jpg",
+    "static/media/web.png": "/apptek/static/media/web.35db15a16b8569f9d4d1.png",
+    "static/media/django.png": "/apptek/static/media/django.d20871fc19f83354500c.png",
+    "static/media/logo3.png": "/apptek/static/media/logo3.2cc66df4dd774fca6feb.png",
+    "static/media/testing.png": "/apptek/static/media/testing.051186360de1090269f7.png",
+    "static/media/py.webp": "/apptek/static/media/py.f23771abb4a2f25290a8.webp",
+    "static/media/softskill1.png": "/apptek/static/media/softskill1.832efc048faf066ff15c.png",
+    "static/media/java.png": "/apptek/static/media/java.90b9b98b1d4dce9ffc29.png",
+    "static/media/python.png": "/apptek/static/media/python.76422f71c8662507ec5d.png",
+    "static/media/java.webp": "/apptek/static/media/java.824f1a38833cc6d2dc32.webp",
+    "static/media/asp.jpg": "/apptek/static/media/asp.d255ca7e61d7c1d2f659.jpg",
+    "static/media/slick.svg": "/apptek/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/apptek/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/apptek/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/apptek/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/apptek/index.html",
+    "main.f4a78a33.css.map": "/apptek/static/css/main.f4a78a33.css.map",
+    "main.1cd2c68a.js.map": "/apptek/static/js/main.1cd2c68a.js.map",
+    "787.42f3db74.chunk.js.map": "/apptek/static/js/787.42f3db74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a78a33.css",
+    "static/js/main.1cd2c68a.js"
+  ]
+}
